@@ -1,0 +1,46 @@
+body {
+  background-color: darkred;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: red;
+  padding: 20px;
+  text-align: left;
+}
+
+h1 {
+  color: white;
+  margin: 0;
+}
+h3 {
+  color: white;
+  margin: 0;
+}
+.wtext {
+  color: white;
+  margin: 0;
+}
+
+.content {
+  padding: 20px;
+  color: gold;
+  text-align: center;
+  min-height: 500px;
+}
+footer {
+  background-color: black;
+  padding: 20px;
+  text-align: left;
+  min-height: 200px;
+}
+.link {
+  text-decoration: underline; /* Adds an underline to the link */
+  color: blue; /* Sets the color of the link text */
+}
+#cr {
+	position: absolute;
+  bottom: 0;
+  color: white;
+  margin: 0;
+}
